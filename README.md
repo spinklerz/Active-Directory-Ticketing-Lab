@@ -1,5 +1,5 @@
 # Active-Directory-Ticketing-Lab
-Setup a virtual network with a pfsense gateway, DC01, and a windows 11 workstation to practice managing user accounts, setting up GPOs and an ubuntu machine that manages a ticketing system. Extended the lab into 
+Setup a virtual network with a pfsense gateway, DC01, and a Windows 11 workstation to practice managing user accounts, setting up GPOs and an Ubuntu machine that manages a ticketing system. Extended the lab into 
 Microsoft 365 and Microsoft Entra ID to simulate cloud-based identity management, including user provisioning, conditional access policies, MFA enforcement, and password reset workflows mirroring the on-premises 
 Active Directory environment.
 
