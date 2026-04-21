@@ -18,6 +18,14 @@ Active Directory environment.
 
 ![Machine verification](./images/machine_veri.png)
 
+- GPO Link
+
+![GPO Link](./images/Link.png)
+
+- GPO policies
+
+![Polcies](./images/GPO%20enforcement.png)
+
  ## Scenario 1
  - John gets locked out of his AD account and submits a ticket on the local ticketing system. 
 
